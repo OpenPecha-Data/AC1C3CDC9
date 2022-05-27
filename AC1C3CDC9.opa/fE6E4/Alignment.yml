@@ -1,0 +1,23 @@
+segment_sources:
+  ID1100099:
+    type: origin_type
+    relation: translation
+    language: sa
+  IA5EF4E3C:
+    type: origin_type
+    relation: translation
+    language: zh
+  I4F3CC666:
+    type: origin_type
+    relation: translation
+    language: bo
+  IA0DAA9A5:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  e04e165170694b1faacbb21e007cd9c1:
+    ID1100099: b90352add55b43bdb976426db93cd205
+    IA5EF4E3C: 46d08e1340994a35b96ecc9e5f4088fc
+    I4F3CC666: fa7a842244d44a73b279f4a93193c265
+    IA0DAA9A5: None
